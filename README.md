@@ -3,7 +3,7 @@
 CEO <a href="https://haumea.xyz"><span style="color: #6633cc">**@Haumea.**</span></a>
 
 [![Twitter Badge](https://img.shields.io/badge/-@astroamirr-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/astroamirr)](https://twitter.com/astroamirr)
-[![Instagram Badge](https://img.shields.io/badge/-@astroamirr-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/astroamirr/)](https://www.instagram.com/astroamirr/)
+[![Instagram Badge](https://img.shields.io/badge/-@estrela_cosmos-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/estrela_cosmos/)](https://www.instagram.com/estrela_cosmos/)
 [![Gmail Badge](https://img.shields.io/badge/-astroamir11@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:astroamir11@gmail.com)](mailto:astroamir11@gmail.com)
 
 Enthusiast of the a little bit of everything.
